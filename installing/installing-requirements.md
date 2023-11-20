@@ -2,11 +2,11 @@
 
 ## Downloading the game
 
-Press the windows key + r on your keyboard (or open your web browser of choice (or press the windows key and search for run)) and type `steam://open/console` into it. ![](<../.gitbook/assets/image (1).png>)
+Press the windows key + r on your keyboard (or open your web browser of choice (or press the windows key and search for run)) and type `steam://open/console` into it. ![](<../.gitbook/assets/run.png>)
 
 Steam should open into a new console tab. type `download_depot 1113000 1113001 7421594391039072174` and wait for it to finish.
 
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/console.png" alt="" data-size="original">
 
 The game files will be in `\steamapps\content\app_1113000\depot_1113001`  and you can do whatever you want with the folder (for example: I moved it to my D: drive and renamed it to "P4G 32 bit")
 
